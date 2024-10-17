@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Berkhayta
-- 👀 I’m interested in all about software you know :)
+- 👀 I’m interested in all about software:)
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 My mail is Berk61berk@outlook.com 
 
 <!---
